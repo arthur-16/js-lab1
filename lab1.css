@@ -1,0 +1,12 @@
+html {
+    background-color: lightblue
+}
+h1 {
+    color: lightgreen
+}
+.friend {
+    background-color: white
+}
+.friend > h3 {
+    font-variant-caps: small-caps
+}
